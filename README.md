@@ -1,9 +1,7 @@
 <p align="center">
 <img alt="nithish_r" align="center" height=450 width=550 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 </p>
-<h1 align="center">Hi 👋, I'm R Nithish</h1>
-<h3 align="center">Welcome to my Github Profile</h3>
-
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=35&color=000000&vCenter=true&width=600&height=100&lines=Hi+I'm+%F0%9F%91%8B%2C+R+Nithish;Welcome+to+my+github+profile+)](https://git.io/typing-svg)"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithishrcta&label=Profile%20views&color=0e75b6&style=flat" alt="nithishrcta" /> </p>
 
 - 🔭 I’m currently working on **Personal Project**
